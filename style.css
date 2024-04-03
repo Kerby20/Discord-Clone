@@ -1,0 +1,28 @@
+body {
+  background-color: #5865f2;
+  width: 100%;
+}
+
+.color-white {
+  color: white;
+}
+
+.imagine {
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.p-1 {
+  font-family: "Bayon", sans-serif;
+}
+
+.color-black {
+  color: black;
+}
+
+.color-green h1 {
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.color-green p {
+  font-family: "Bayon", sans-serif;
+}
